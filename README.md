@@ -1,2 +1,1 @@
-# MovieBox
-A movie streaming application on Flutter.
+A movie streaming app built using Flutter.
